@@ -24,8 +24,7 @@
 
 ![imagename](https://thegoodpython.com/assets/images/iris-species.png)
 
-> > The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
-* These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
+
 
 ![imagename](https://miro.medium.com/max/2186/1*duZ0MeNS6vfc35XtYr88Bg.png)
 
@@ -37,5 +36,12 @@
  >3. Support Vector Machine.
  >4. Logical Regression.
  
+* SUMMARY:
+* > > The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
+* These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms. The relationship between pairs of features of a iris-setosa is distinctly different from those of the other two species. There is some overlap in the pairwise relationships of the other two species, iris-versicolor and iris-virginica.
+* We have even plotted the Heatmap plots rectangular data as a color-encoded matrix.
+* I have also showed the counts of observations present in each categorical bin using bars i.e., petal length,petal width,sepal length and sepal width.
+* I have used the 'seaborn-whitegrid' style to produce a histogram which helps us to learn how three different flower classes i.e.,'Iris-setosa', 'Iris-versicolor', 'Iris-virginica' are distributed along four different features i.e.,'sepal_length ', 'sepal_width 'petal_length 'and 'petal_width'.
+* In this project I have also included the covariance matrix.
 * Assignment during Online Internship with DLithe(www.dlithe.com)
 
