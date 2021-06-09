@@ -46,7 +46,7 @@
 * Eigenvectors of a symmetric matrix, covariance matrix here, are real and orthogonal. The eigenvectors are called principal axes or principal directions of the data. Projections of the data on the principal axes are called principal components.
 * The eigen vectors with the lowest eigen values holds least information regarding the distribution of the data. On ranking the eigen values from highest to lowest in order to choose the top k eigen vectors.
 * I calculated explained variance from the eigen values. The explained variance tells us how much of variance can be attributed to each of the principal components.
-* In conclusion , i got the cccuracy of our model using Random Forest Classifier is equal to: 100.0 % , using KNN technique is equal to:96.67% , using SVM is equal to: 100.0% and using logical regression is equal to:100.0%.
+* In conclusion , I got the cccuracy of our model using Random Forest Classifier is equal to: 100.0 % , using KNN technique is equal to:96.67% , using SVM is equal to: 100.0% and using logical regression is equal to:100.0%.
 * Therefore, the accuracy of the model depends on the technique that we are using.
 
 THANK YOU
